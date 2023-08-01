@@ -1,0 +1,13 @@
+.orange {
+    color: orange
+}
+
+.bigg {
+    font-weight: 100;
+}
+
+h2 {
+    text-decoration: overline;
+    letter-spacing: 1em;
+    text-shadow: 1em;
+}
