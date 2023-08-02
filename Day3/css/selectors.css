@@ -1,0 +1,24 @@
+em {
+    color:blue
+}
+
+body footer {
+    color:red
+}
+
+article > h1 {
+    color:limegreen
+}
+
+h1 + p {
+    color:purple
+}
+
+article > h1 ~ p {
+    background-color: gray;
+}
+
+
+.hover:hover {
+    background-color: burlywood;
+}
