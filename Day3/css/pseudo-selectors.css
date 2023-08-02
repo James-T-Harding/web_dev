@@ -1,0 +1,24 @@
+p::first-line {
+    color: blue;
+}
+
+p::first-letter {
+    color: red;
+    font-size: xx-large;
+}
+
+p::before {
+    content: "STATEMENT START ";
+}
+
+p::after {
+    content: " STATEMENT END";
+}
+
+.highlight:hover {
+    background-color: chocolate;
+}
+
+input:active {
+    background-color: lightblue;
+}
